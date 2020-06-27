@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to Nizam second slide!"
 ---
-Your text
+Let's Watch The Next
 Use the left arrow to go back!
